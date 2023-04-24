@@ -1,0 +1,16 @@
+.odd{
+    background-color: rgb(218, 57, 84);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+#one-ID{
+    color: blue;
+    font-size: 36px;
+}
+.p3{
+    font-size: 24px;
+}
+#another-ID{
+    background-color: lightgreen;
+    font-size: 24;
+    font-weight: bold;
+}
